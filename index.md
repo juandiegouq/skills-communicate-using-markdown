@@ -7,3 +7,7 @@ for(int i = 0; i < n ; i++){
   System.out.println("Hello, world!");
 }
 ```
+
+- [x] Turn on GitHub Pages
+- [x] Outline my portfolio
+- [ ] Introduce myself to the world
